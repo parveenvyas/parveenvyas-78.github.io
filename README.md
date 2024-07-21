@@ -1,4 +1,4 @@
-# parveenvyas65.github.io
+# parveenvyas-78.github.io
 My name is Parveen vyas
 **I am Parveen Vyas. I am currently living in ludhiana, Punjab . I got 85.2℅ in senior secondary examination. I currently pursuing Btech in CSE at Guru nanak Dev Engineering College**
 
