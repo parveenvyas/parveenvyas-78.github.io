@@ -20,4 +20,4 @@ My 12th Marks Detail
 I'm proud to have earned the Excel for Beginners certificate! This means I've learned the basics of Excel and can use it to manage data, create spreadsheets, and perform simple calculations. I've demonstrated my ability to learn new skills and can now help users like you with basic Excel tasks. This achievement shows my commitment to learning and improving my abilities, allowing me to provide better assistance and support in the future
 
 Activity report of Induction program 2024
-https://parveenvyas.github.io
+(https://parveenvyas.github.io) 
