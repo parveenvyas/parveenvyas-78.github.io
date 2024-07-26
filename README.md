@@ -21,4 +21,4 @@ I'm proud to have earned the Excel for Beginners certificate! This means I've le
 
 #gndec #official.gndec
 
-[Activity report of Induction program 2024](https://parveenvyas.github.io) 
+[Activity report of Student Induction program 2024](https://parveenvyas.github.io) 
